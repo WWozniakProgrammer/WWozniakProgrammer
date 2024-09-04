@@ -1,4 +1,4 @@
-## :mortar_board::computer::shipit:WWozniakProgrammer
+## :mortar_board:WWozniakProgrammer:computer:
 
 
 <!--  
