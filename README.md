@@ -25,5 +25,7 @@ I am a computer science student who likes to create projects based on automation
 <img align="left" alt="Jupyter" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg"  style="padding-right:0px;" />
 <a href="https://www.youtube.com/watch?v=rhvF2_JkDhQ">🐵</a>
 
+### Connect with me:
+[<img align="left" alt="Linkedin" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />](https://www.linkedin.com/in/wojciech-wo%C5%BAniak-b97a3b298/)
 
 
