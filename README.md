@@ -2,7 +2,7 @@
 
 **IT enthusiast (Developer/DataAnalyst/DataScientist)**
 
-"Hi, I'm passionate about IT, particularly programming and optimization. On this profile, I'll document my learning journey and build a collection of interesting projects that other programmers can use to make their work easier."
+Hi, I'm passionate about IT, particularly programming and optimization. On this profile, I'll document my learning journey and build a collection of interesting projects that other programmers can use to make their work easier."
 ---
 ### :wrench:Languages and Tools Kit:briefcase:
 
